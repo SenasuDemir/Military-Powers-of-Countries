@@ -74,8 +74,7 @@ The dataset used in this project contains the following columns:
 ### KMeans Clustering
 
 1. **Data Preprocessing**:
-   * Handle missing values (if any).
-   * Standardize numerical features for better clustering performance.
+   * Handle missing values.
 
 2. **KMeans Algorithm**:
    * The dataset is clustered using KMeans clustering with `n_clusters=4`.
