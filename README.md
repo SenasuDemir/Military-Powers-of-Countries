@@ -87,7 +87,7 @@ The dataset used in this project contains the following columns:
 A world map is generated where each country is colored based on the cluster it belongs to. The countries' geographical locations and clusters are visually represented, making it easy to observe regional and global patterns in military strength.
 
 ## Results
-* **Silhouette Score**: 0.86, indicating that the clustering is well-defined.
+* **Silhouette Score**: 0.8713, indicating that the clustering is well-defined.
 * **Number of Clusters**: 4.
 * The countries are assigned to clusters, which are visualized on a world map.
 
